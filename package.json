@@ -1,0 +1,6 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "An Instagram clone built with BroKod",
+  "type": "module"
+}
